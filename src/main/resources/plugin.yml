@@ -1,0 +1,5 @@
+name: ClaxCity
+version: ${project.version}
+main: net.theperfectgamers.claxcity.ClaxCity
+api-version: 1.16
+authors: [ ElektroCloud ]
